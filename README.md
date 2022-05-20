@@ -8,6 +8,9 @@ Carpenter, S.R., Pace M.L., and Wilkinson G.M. 2022. Organic color and resilienc
 
 The R script fits the model by maximum likelihood and conducts stability analyses for scenarios presented in the manuscript.
 
+On 20 May 2022 the R script Fit2015_GitHub_2022-05-20.R was added to the repository.  This script generates additional panels for Figure 2 of the manuscript by Carpenter, Pace, and Wilkinson. These panels compare predicted and observed one-step rates of change in chlorophyll concentration. In addition the R script generates residual plots to be added to the online Supporting Information. 
+The ReadMe.pdf was updated to include this new R script. 
+
 The dataset of daily values Daily_PeterTuesday2015_all+ZB.Rdata was constructed from spreadsheets compiled during the original research summarized by 
 Pace et al. 2017 and Wilkinson et al. 2018 and by computing daily means for high-frequency data from the EDI repository:
 
